@@ -1,0 +1,10 @@
+Ordering system
+Android
+Promotions
+Database - Menu, Rewards, Different menus
+Users
+Dynamic visuals - Background colour options
+Separate dishes
+
+Database normalised
+Classes, inheritance
